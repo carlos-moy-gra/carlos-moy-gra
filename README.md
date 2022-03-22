@@ -12,7 +12,7 @@
 
 ## Official Education 👨🏻‍🎓
 
-**Sept 2021- Current** | *M.Sc. in Data Science.* **UPC-BarcelonaTech, Barcelona, Spain.**
+**Sept 2021 - Current** | *M.Sc. in Data Science.* **UPC-BarcelonaTech, Barcelona, Spain.**
 
 **Feb 2021 - June 2021** | *Swiss-European Mobility Student taking courses from M.Sc. in AI.* **USI, Lugano, Switzerland.**
 
