@@ -23,11 +23,5 @@
 
 ## Unofficial Education 📚
 
-
-## Statistics 📊
-![](https://github-readme-stats.vercel.app/api?username=carlos-moy-gra)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-moy-gra&layout=compact)
-
 ## Follow me on LinkedIn! 👀
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
