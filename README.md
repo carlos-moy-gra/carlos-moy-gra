@@ -24,7 +24,7 @@
 ## Unofficial Education 📚
 
 2021:
-![Coursera](https://img.shields.io/badge/Coursera-Specialized Programe in Deep Learning-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Specialized-Programe-in-Deep-Learning-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ## Follow me on LinkedIn! 👀
 <a href="https://www.linkedin.com/in/carlos-moyano-gravalos">
