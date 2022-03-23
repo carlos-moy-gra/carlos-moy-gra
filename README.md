@@ -8,7 +8,7 @@
 
 **[ES]** ¡Hola! Mi nombre completo es Carlos Moyano Gravalos, y soy un Ingeniero Informático español que actualmente estudia un Máster en Ciencia de Datos en la UPC (Barcelona, España). En estos momentos también trabajo como **Data Science Intern** en [**Acuity Trading**](https://acuitytrading.com/).
 
-📫 How to reach me: carlos@carlosmoy.tech is my personal email and the one I track the most!
+📫 **How to reach me:** carlos@carlosmoy.tech is my personal email and the one I track the most!
 
 ## Official Education 👨🏻‍🎓
 
