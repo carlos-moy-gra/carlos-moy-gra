@@ -23,7 +23,7 @@
 
 ## Unofficial Education 📚
 
-2021:
+**2021:**
 ![Coursera 1](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Deep%20Learning-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)![Coursera 2](https://img.shields.io/badge/Coursera-Building%20Containerized%20Applications%20on%20AWS-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)![Coursera 3](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Practical%20Data%20Science-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)
 
 ## Follow me on LinkedIn! 👀
