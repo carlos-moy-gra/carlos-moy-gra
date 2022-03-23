@@ -24,9 +24,9 @@
 ## Unofficial Education 📚
 
 **2021:**
-![Coursera 1](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Deep%20Learning-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)![Coursera 2](https://img.shields.io/badge/Coursera-Building%20Containerized%20Applications%20on%20AWS-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)![Coursera 3](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Practical%20Data%20Science-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)
+![Coursera 1](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Deep%20Learning-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)![Coursera 2](https://img.shields.io/badge/Coursera-Building%20Containerized%20Applications%20on%20AWS-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)![Coursera 3](https://img.shields.io/badge/Coursera-Specialized%20Programe%20:%20Practical%20Data%20Science-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ## Follow me on LinkedIn! 👀
 <a href="https://www.linkedin.com/in/carlos-moyano-gravalos">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
 </a>
