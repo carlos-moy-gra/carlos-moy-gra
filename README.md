@@ -4,9 +4,9 @@
 **carlos-moy-gra/carlos-moy-gra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-**[ENG]** Hi! My name is Carlos Moyano, and I'm a Spanish Computer Science Engineer who is currently pursuing a M.Sc. in Data Science at UPC (Barcelona, Spain). In this moment I'm also working as **Data Science Intern** at [**Acuity Trading**](https://acuitytrading.com/).
+**[ENG]** Hi! My name is Carlos Moyano, and I'm a Spanish Computer Science Engineer who is currently pursuing a M.Sc. in Data Science at UPC (Barcelona, Spain).
 
-**[ES]** ¡Hola! Mi nombre es Carlos Moyano, y soy un Ingeniero Informático español que actualmente estudia un Máster en Ciencia de Datos en la UPC (Barcelona, España). En estos momentos también trabajo como **Data Science Intern** en [**Acuity Trading**](https://acuitytrading.com/).
+**[ES]** ¡Hola! Mi nombre es Carlos Moyano, y soy un Ingeniero Informático español que actualmente estudia un Máster en Ciencia de Datos en la UPC (Barcelona, España).
 
 📫 **How to reach me:** carlos@carlosmoy.tech is my personal email and the one I track the most!
 
