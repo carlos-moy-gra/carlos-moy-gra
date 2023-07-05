@@ -16,7 +16,7 @@
 
 **Feb 2021 - June 2021** | *Swiss-European Mobility Student taking courses from M.Sc. in AI.* **USI, Lugano, Switzerland.**
 
-**Sept 2016 - June 2021** | *B.Sc. in Computer Science Engineering (Track: Computation & Intelligent Systems).* **UPNA, Pamplona, Spain.**
+**Sept 2016 - June 2021** | *B.Sc. in Computer Science Engineering (Track: Theory of Computation and AI).* **UPNA, Pamplona, Spain.**
 
 ## Languages and Technologies 👨🏻‍💻
 ![Python](https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
